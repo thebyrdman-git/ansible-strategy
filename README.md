@@ -2,7 +2,7 @@
 
 Visual guide to automating work and life with Ansible.
 
-**Live Site:** https://thebyrdman-git.github.io/ansible-strategy/
+**Live Site:** https://ansible.jbyrd.org/
 
 ---
 
